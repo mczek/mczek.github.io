@@ -7,3 +7,4 @@ layout: home
 
 I am a PhD student at Cornell in the field of Statistics. This website is a work in progress and will have more information soon.
 
+
