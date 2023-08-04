@@ -6,25 +6,27 @@ permalink: /research/
 
 ## Publications
 
-Lyford, A., Czekanski, M. (2020). **Teaching students to estimate complex probabilities of board game events through simulation.** Teaching Statistics, 42(3), 117--125.
+*M. Czekanski, S. Kimmel, R.T. Witter (2023). **Robust and Space-Efficient Dual Adversary Quantum Query Algorithms.** European Symposium on Algorithms 2023. 
 
-Czekanski, M., Lyford, A. (2020). **Scratch off tickets: A good investment?** Math Horizons, 27 (3). 18--20.
+A. Lyford, M. Czekanski (2020). **Teaching students to estimate complex probabilities of board game events through simulation.** Teaching Statistics, 42(3), 117--125.
 
+M. Czekanski, A. Lyford (2020). **Scratch off tickets: A good investment?** Math Horizons, 27 (3). 18--20.
+
+*names ordered alphabetically
 
 ## Talks
 
-Czekanski, M.,  Lyford, A. (2021). **Probabilistic Decision Making—Looking Beyond
+M. Czekanski,  A. Lyford (2021). **Probabilistic Decision Making—Looking Beyond
 Expected Value**. Joint Math Meetings 2021. Virtual. January 2021.
 
-Czekanski, M., Lyford, A. (2020). **Scratch off tickets: A good investment!**
+M. Czekanski, A. Lyford (2020). **Scratch off tickets: A good investment!**
 Hudson River Undergraduate Mathematics Conference. Holyoke, MA. April 2020 (Canceled due to Covid).
 
 
-Czekanski, M., Lyford, A. (2020). **Scratch off tickets: A good investment?**
-Joint Math
-Meetings 2020. Denver, Colorado. January 2020.
+M. Czekanski, A. Lyford (2020). **Scratch off tickets: A good investment?**
+Joint Math Meetings 2020. Denver, Colorado. January 2020.
 
-Lyford, A., Czekanski, M. (2019) **Teaching introduction to data science as a creative writing class.**
+A. Lyford, M. Czekanski (2019) **Teaching introduction to data science as a creative writing class.**
 United States Conference on Teaching Statistics (USCOTS). State College,
 Pennsylvania. May 2019.
 
