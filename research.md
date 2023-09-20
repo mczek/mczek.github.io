@@ -23,7 +23,7 @@ M. Czekanski, A. Lyford (2020). **Scratch off tickets: A good investment!**
 Hudson River Undergraduate Mathematics Conference. Holyoke, MA. April 2020 (Canceled due to Covid).
 
 
-M. Czekanski, A. Lyford (2020). **Scratch off tickets: A good investment?**
+M. Czekanski, A. Lyford (2020). **Making Money on Scratch Tickets—The Impact of Prize Structures.**
 Joint Math Meetings 2020. Denver, Colorado. January 2020.
 
 A. Lyford, M. Czekanski (2019) **Teaching introduction to data science as a creative writing class.**
